@@ -1,0 +1,11 @@
+C:\dev\JwtStore\JwtStore.Core\bin\Debug\net8.0\JwtStore.Core.deps.json
+C:\dev\JwtStore\JwtStore.Core\bin\Debug\net8.0\JwtStore.Core.dll
+C:\dev\JwtStore\JwtStore.Core\bin\Debug\net8.0\JwtStore.Core.pdb
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\JwtStore.Core.AssemblyInfoInputs.cache
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\JwtStore.Core.AssemblyInfo.cs
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\JwtStore.Core.csproj.CoreCompileInputs.cache
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\JwtStore.Core.dll
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\refint\JwtStore.Core.dll
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\JwtStore.Core.pdb
+C:\dev\JwtStore\JwtStore.Core\obj\Debug\net8.0\ref\JwtStore.Core.dll

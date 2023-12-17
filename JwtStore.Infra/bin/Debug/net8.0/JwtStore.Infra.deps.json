@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JwtStore.Infra/1.0.0": {
+        "runtime": {
+          "JwtStore.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JwtStore.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
